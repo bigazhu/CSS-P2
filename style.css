@@ -1,0 +1,21 @@
+#main-title {
+  text-align: center;
+  color: darkblue;
+}
+ 
+.card {
+  background-color: #adb1db;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+ 
+.card-title {
+  color: cyan;
+}
+ 
+
+.highlight {
+  color: gold;
+  font-weight: bold;
+}
+ 
